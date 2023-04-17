@@ -7,3 +7,5 @@
 7. test: curl -i http://localhost:8001
 8. create account admin Konga: http://localhost:1337/register
 9. login account admin Konga
+https://github.com/Kuari/kong-konga-docker-compose/blob/master/docker-compose.yml
+https://www.itblognote.com/2020/06/kong-konga-with-docker-compose.html
